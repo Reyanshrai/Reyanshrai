@@ -1,4 +1,4 @@
-#  Hi, I'm Raghuveer! 👋
+#  Hey, I'm Raghuveer! 👋
 
 # 💫 About Me:
 A passionate coder 💻 with a knack for managing teams 🤝 and public speaking 🎤. <br>I aspire to create innovative solutions through technology, blending creativity 🎨 with functionality ⚙️. <br>My interests span software development, content creation 🎥, and personal growth 📚.

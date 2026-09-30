@@ -10,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6366f1&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=22d3ee&labelColor=0f172a)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=starship&color=6366f1&labelColor=0f172a)
+![Profile Views](https://komarev.com/ghpvc/?username=reyanshrai&label=Profile%20Views&color=6366f1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/reyanshrai?style=for-the-badge&logo=github&color=22d3ee&labelColor=0f172a)
+![Stars](https://img.shields.io/github/stars/reyanshrai?style=for-the-badge&logo=starship&color=6366f1&labelColor=0f172a)
 
 </div>
 
@@ -50,7 +50,7 @@ const raghuveer = {
 
 ---
 
-## 🔥 Featured Project
+<!-- ## 🔥 Featured Project
 
 <div align="center">
 
@@ -60,7 +60,7 @@ const raghuveer = {
 
 [![Visit](https://img.shields.io/badge/Visit-ApplyMate-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://YOUR_APPLYMATE_LINK)
 
-</div>
+</div> -->
 
 ---
 
@@ -68,12 +68,12 @@ const raghuveer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=reyanshrai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f172a" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyanshrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=reyanshrai&theme=tokyonight&hide_border=true&background=0f172a" alt="streak" />
 
 </div>
 
@@ -82,7 +82,7 @@ const raghuveer = {
 ## 🏆 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f172a&area=true" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reyanshrai&theme=tokyo-night&hide_border=true&bg_color=0f172a&area=true" alt="activity graph" width="100%" />
 </div>
 
 ---
@@ -92,10 +92,10 @@ const raghuveer = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/with_reyansh05)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE)
-[![Email](https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghuveerrai05@gmail.com)
 
 <br/>
 

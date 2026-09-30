@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:6366f1,100%:22d3ee&height=220&section=header&text=Hi,%20I'm%20Raghuveer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%7C%20Frontend%20Developer%20%7C%20Building%20ApplyMate&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:6366f1,100%:22d3ee&height=220&section=header&text=Hi,%20I'm%20Raghuveer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%7C%20FullStack%20Developer%20%7C%20Building%20ApplyMate&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Founder+@+ApplyMate+%F0%9F%9A%80;AI+Career+Copilot+for+Job+Seekers;MERN+Stack+%7C+React+Enthusiast;Turning+ideas+into+products+%E2%9C%A8" alt="Typing SVG" />
